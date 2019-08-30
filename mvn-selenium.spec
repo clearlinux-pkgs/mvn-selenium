@@ -4,7 +4,7 @@
 #
 Name     : mvn-selenium
 Version  : 2.52.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/SeleniumHQ/selenium/archive/selenium-2.52.0.tar.gz
 Source0  : https://github.com/SeleniumHQ/selenium/archive/selenium-2.52.0.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/2.52.0/selenium-api-2.52.0.jar
